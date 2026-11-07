@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1080" height="318" alt="fog-on-lake" src="https://github.com/user-attachments/assets/48e67b06-6185-4612-8ed4-58a85bd1f21e" />
+  <img width="1080" height="291" alt="fog-on-lake" src="https://github.com/user-attachments/assets/1acf626b-72a6-45cb-9304-b70e4f5c2b5b" />
 </p>
 
 <p align="center">
@@ -29,9 +29,3 @@ I build production backend architectures, AI-integrated workflows, and developer
 
 - **LLM Engineering:** Building agentic pipelines with structured tool calling and validation
 - **Backend Architecture:** High-throughput async API endpoints with FastAPI and PostgreSQL
-
----
-
-### Connect
-- **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev)
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
