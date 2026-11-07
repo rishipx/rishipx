@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.gif" alt="header banner" width="100%" />
+  <img width="1080" height="318" alt="fog-on-lake" src="https://github.com/user-attachments/assets/48e67b06-6185-4612-8ed4-58a85bd1f21e" />
 </p>
 
 <p align="center">
