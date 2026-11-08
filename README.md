@@ -8,9 +8,16 @@
 
 ---
 
-### About Me
+#### About Me
 
 I build production backend architectures, AI-integrated workflows, and developer tooling. My focus lies at the intersection of modern Python microservices, LLM orchestration, and efficient database systems.
+
+---
+
+#### Current Focus
+
+- **LLM Engineering:** Building agentic pipelines with structured tool calling and validation
+- **Backend Architecture:** High-throughput async API endpoints with FastAPI and PostgreSQL
 
 ---
 
@@ -22,10 +29,3 @@ I build production backend architectures, AI-integrated workflows, and developer
 | **`Backend & AI`** | `FastAPI` `Pydantic` `Streamlit` `OpenAI API` `Anthropic API` |
 | **`Databases & DevOps`** | `PostgreSQL` `Supabase` `Docker` `Git` `Linux` `Cloudflare` |
 | **`Tooling & Automation`** | `n8n` `Postman` `Pytest` |[cite: 3]
-
----
-
-### Current Focus
-
-- **LLM Engineering:** Building agentic pipelines with structured tool calling and validation
-- **Backend Architecture:** High-throughput async API endpoints with FastAPI and PostgreSQL
