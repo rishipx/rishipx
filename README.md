@@ -3,29 +3,27 @@
 </p>
 
 <p align="center">
-  <strong>AI Automation & Backend Engineer | Focused on LLM Systems, APIs, and Data Pipelines</strong>
+  <strong>AI Automation · Python Backend · Interface Design</strong>
 </p>
 
 ---
 
-#### About Me
+**About Me**
 
-I build production backend architectures, AI-integrated workflows, and developer tooling. My focus lies at the intersection of modern Python microservices, LLM orchestration, and efficient database systems.
+I build practical tools with AI workflows, Python APIs, and Postgres. My focus is pairing reliable backends with clean interfaces to automate repetitive work and catch bugs early.
 
----
-
-#### Current Focus
-
-- **LLM Engineering:** Building agentic pipelines with structured tool calling and validation
-- **Backend Architecture:** High-throughput async API endpoints with FastAPI and PostgreSQL
+**Current Focus**
+- Event-driven `n8n` and `FastAPI` pipelines with strict `Pydantic` guardrails around LLM outputs
+- `PostgreSQL` schemas, row-level security policies, and idempotent webhooks that handle retries safely
 
 ---
 
 ### Tech Stack
 
-| `Category` | `Tools & Technologies` |
+| Category | Skills |
 | :--- | :--- |
-| **`Languages`** | `Python` `SQL` `Bash` |
-| **`Backend & AI`** | `FastAPI` `Pydantic` `Streamlit` `OpenAI API` `Anthropic API` |
-| **`Databases & DevOps`** | `PostgreSQL` `Supabase` `Docker` `Git` `Linux` `Cloudflare` |
-| **`Tooling & Automation`** | `n8n` `Postman` `Pytest` |[cite: 3]
+| **Languages** | `Python` `SQL` `Bash` |
+| **Backend & AI** | `FastAPI` `Pydantic` `Streamlit` `OpenAI API` `Anthropic API` |
+| **Data & Ops** | `PostgreSQL` `Supabase` `Docker` `Git` `Linux` `Cloudflare` |
+| **Automation & Tools** | `n8n` `Postman` `Pytest` |
+| **Design** | `Data Visualization` `Figma` `Accessibility` |
